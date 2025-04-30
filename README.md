@@ -1,4 +1,4 @@
-# turn-windows-into-server
+# Turn-Windows-Into-Server
 A step-by-step guide to turning a Windows 10/11 machine into an SSH server with VSCode remote access support.
 🧠 Windows 本地账户 + SSH 远程连接配置教程（适用于 Win10 / Win11）
 
